@@ -1,0 +1,6 @@
+[package]
+name = "oxidaisy"
+version = "0.1.0"
+authors = ["Andy Sherwood <xinmyname@gmail.com>"]
+
+[dependencies]
